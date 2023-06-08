@@ -1,1 +1,1 @@
-# C176-jQuery
+# PRO-C176-Boilerplate-Teacher
